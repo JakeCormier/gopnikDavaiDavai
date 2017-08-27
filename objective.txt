@@ -1,0 +1,44 @@
+Blender - Modeling
+Unreal - C++, feel (physics)
+Xcode - Swift/C++, interface, feel
+Substance Designer & Painter, Quixel, Gametextures.com - Texturing
+
+GamePlay - Hotline Miami (Stroy), Metroid (Game Feel/ Scrolling), South Park (Possibly)
+
+1. Story
+2. Character / Object Physics
+3. Blender / Texture
+4. Swift / UI
+5. Upload to Store
+
+        Story
+---------------------
+1. Lada Stolen
+2. Basic Street Opener (Hooliganism)
+3. Triple X (xXx) Night Club
+4. Mafia Stronghold
+5. DashCam
+6. Jail
+7. Jailbreak
+8. MayDay
+9. Take Car and Gopnik Squat Resolution
+--------------------
+Hackerman NPC Leads Story with Calls / SMS
+
+
+     Characters
+--------------------
+- Main Character
+- Thugs
+- Police
+- Drunks
+- Mafia
+- Round Crowd/Onlookers
+- Babushkas
+
+
+      Objects
+-------------------
+- Vodka
+- Weapons
+- Food
